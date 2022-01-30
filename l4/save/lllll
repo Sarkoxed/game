@@ -1,0 +1,454 @@
+{
+  "length": 6,
+  "map": [
+    [
+      {
+        "items": [],
+        "type": 0
+      },
+      {
+        "items": [],
+        "person": {
+          "a_accuracy": [
+            10
+          ],
+          "a_curhealth": [
+            300
+          ],
+          "a_curtime": [
+            300
+          ],
+          "a_curweight": [
+            0
+          ],
+          "a_maxhealth": [
+            300
+          ],
+          "a_maxtime": [
+            300
+          ],
+          "a_name": [
+            "Slava"
+          ],
+          "a_radius": [
+            3
+          ],
+          "a_reloadtime": [
+            0
+          ],
+          "a_steptime": [
+            30
+          ],
+          "a_strength": [
+            235
+          ],
+          "items": {
+            "inventory": []
+          },
+          "type": 0
+        },
+        "type": 0
+      },
+      {
+        "items": [
+          {
+            "a_weight": 55,
+            "heltime": 20,
+            "increasing": 76,
+            "type": 1
+          }
+        ],
+        "person": {
+          "a_accuracy": [
+            5
+          ],
+          "a_curhealth": [
+            150
+          ],
+          "a_curtime": [
+            150
+          ],
+          "a_curweight": [
+            0
+          ],
+          "a_maxhealth": [
+            150
+          ],
+          "a_maxtime": [
+            150
+          ],
+          "a_name": [
+            "Khan"
+          ],
+          "a_radius": [
+            4
+          ],
+          "a_reloadtime": [
+            0
+          ],
+          "a_steptime": [
+            20
+          ],
+          "a_strength": [
+            170
+          ],
+          "items": {
+            "inventory": []
+          },
+          "type": 0
+        },
+        "type": 0
+      },
+      {
+        "items": [
+          {
+            "a_weight": 110,
+            "heltime": 51,
+            "increasing": 113,
+            "type": 1
+          }
+        ],
+        "type": 0
+      },
+      {
+        "items": [
+          {
+            "a_cursize": 7,
+            "a_maxsize": 24,
+            "a_name": 1,
+            "a_weight": 170,
+            "type": 2
+          }
+        ],
+        "type": 0
+      }
+    ],
+    [
+      {
+        "items": [],
+        "person": {
+          "a_accuracy": [
+            10
+          ],
+          "a_curhealth": [
+            100
+          ],
+          "a_curtime": [
+            100
+          ],
+          "a_maxhealth": [
+            100
+          ],
+          "a_maxtime": [
+            100
+          ],
+          "a_radius": [
+            1
+          ],
+          "a_steptime": [
+            50
+          ],
+          "a_strength": [
+            160
+          ],
+          "items": [],
+          "type": 3
+        },
+        "type": 0
+      },
+      {
+        "items": [],
+        "type": 1
+      },
+      {
+        "items": [],
+        "type": 1
+      },
+      {
+        "items": [],
+        "type": 1
+      },
+      {
+        "items": [],
+        "type": 0
+      }
+    ],
+    [
+      {
+        "items": [],
+        "type": 0
+      },
+      {
+        "items": [],
+        "person": {
+          "a_accuracy": [
+            10
+          ],
+          "a_curhealth": [
+            200
+          ],
+          "a_curtime": [
+            200
+          ],
+          "a_curweight": [
+            100
+          ],
+          "a_maxhealth": [
+            200
+          ],
+          "a_maxtime": [
+            200
+          ],
+          "a_name": [
+            "Mark"
+          ],
+          "a_radius": [
+            2
+          ],
+          "a_reloadtime": [
+            100
+          ],
+          "a_steptime": [
+            40
+          ],
+          "a_strength": [
+            150
+          ],
+          "items": {
+            "hands": {
+              "a_curmag": 13,
+              "a_damage": 233,
+              "a_fullmag": 13,
+              "a_name": 0,
+              "a_treload": 100,
+              "a_tshoot": 31,
+              "a_weight": 15,
+              "type": 0
+            },
+            "inventory": [
+              {
+                "a_cursize": 26,
+                "a_maxsize": 41,
+                "a_name": 0,
+                "a_weight": 50,
+                "num": 3,
+                "type": 2
+              }
+            ]
+          },
+          "type": 0
+        },
+        "type": 0
+      },
+      {
+        "items": [
+          {
+            "a_weight": 140,
+            "heltime": 23,
+            "increasing": 66,
+            "type": 1
+          }
+        ],
+        "person": {
+          "a_accuracy": [
+            10
+          ],
+          "a_curhealth": [
+            200
+          ],
+          "a_curtime": [
+            200
+          ],
+          "a_maxhealth": [
+            200
+          ],
+          "a_maxtime": [
+            200
+          ],
+          "a_radius": [
+            2
+          ],
+          "a_steptime": [
+            40
+          ],
+          "a_strength": [
+            254
+          ],
+          "items": [],
+          "type": 3
+        },
+        "type": 0
+      },
+      {
+        "items": [],
+        "type": 2
+      },
+      {
+        "items": [],
+        "type": 2
+      }
+    ],
+    [
+      {
+        "items": [],
+        "type": 0
+      },
+      {
+        "items": [],
+        "type": 1
+      },
+      {
+        "items": [],
+        "type": 1
+      },
+      {
+        "items": [],
+        "type": 1
+      },
+      {
+        "items": [
+          {
+            "a_cursize": 22,
+            "a_maxsize": 46,
+            "a_name": 1,
+            "a_weight": 192,
+            "type": 2
+          }
+        ],
+        "type": 0
+      }
+    ],
+    [
+      {
+        "items": [
+          {
+            "a_curmag": 0,
+            "a_damage": 500,
+            "a_fullmag": 1,
+            "a_name": 3,
+            "a_treload": 500,
+            "a_tshoot": 100,
+            "a_weight": 500,
+            "type": 0
+          }
+        ],
+        "person": {
+          "a_accuracy": [
+            5
+          ],
+          "a_curhealth": [
+            150
+          ],
+          "a_curtime": [
+            150
+          ],
+          "a_damage": [
+            141
+          ],
+          "a_maxhealth": [
+            150
+          ],
+          "a_maxtime": [
+            150
+          ],
+          "a_radius": [
+            4
+          ],
+          "a_steptime": [
+            20
+          ],
+          "type": 1
+        },
+        "type": 0
+      },
+      {
+        "items": [],
+        "type": 0
+      },
+      {
+        "items": [
+          {
+            "a_curmag": 0,
+            "a_damage": 266,
+            "a_fullmag": 8,
+            "a_name": 2,
+            "a_treload": 200,
+            "a_tshoot": 40,
+            "a_weight": 70,
+            "type": 0
+          }
+        ],
+        "type": 3
+      },
+      {
+        "items": [],
+        "type": 0
+      },
+      {
+        "items": [],
+        "type": 0
+      }
+    ],
+    [
+      {
+        "items": [
+          {
+            "a_curmag": 0,
+            "a_damage": 233,
+            "a_fullmag": 13,
+            "a_name": 0,
+            "a_treload": 230,
+            "a_tshoot": 31,
+            "a_weight": 15,
+            "type": 0
+          }
+        ],
+        "type": 4
+      },
+      {
+        "items": [],
+        "type": 0
+      },
+      {
+        "items": [],
+        "type": 1
+      },
+      {
+        "items": [],
+        "type": 1
+      },
+      {
+        "items": [],
+        "person": {
+          "a_accuracy": [
+            10
+          ],
+          "a_curhealth": [
+            300
+          ],
+          "a_curtime": [
+            300
+          ],
+          "a_damage": [
+            73
+          ],
+          "a_maxhealth": [
+            300
+          ],
+          "a_maxtime": [
+            300
+          ],
+          "a_radius": [
+            3
+          ],
+          "a_steptime": [
+            30
+          ],
+          "type": 1
+        },
+        "type": 0
+      }
+    ]
+  ],
+  "width": 5
+}

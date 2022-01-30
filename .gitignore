@@ -1,0 +1,14 @@
+/test
+*.out
+testcase/
+*.o
+*.so
+fucking/
+todo
+*CMake*
+*Cmake*/
+*cmake*
+*.zip
+documentation/
+.ipynb_checkpoints/
+*.gch
